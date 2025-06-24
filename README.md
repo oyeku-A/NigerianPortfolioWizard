@@ -24,7 +24,6 @@ This project was developed as my final year project, being a Computer Science Ma
 - Streamlit for UI
 
 ## 📊 Data Source
-https://eodhd.com/exchange/XNSA
 [EODHD Financial APIs](https://eodhd.com/exchange/XNSA) – used for pulling End-Of-Day stock data for listed Nigerian companies.
 
 ## 🇳🇬 Why Nigeria?
